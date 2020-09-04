@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1 th:text="${word}"></h1><br>
+<input type="text" name="names" th:value="${word}" /><br>
+<span th:text="${word}+'everyone'"></span><br>
+<span th:text="|${word}boby|"></span><br>
+<table width="200" style="text-align: center;">
+    <tr>
+    <th>编号</th>
+    <th>姓名</th>
+    <th>年龄</th>
+    </tr>
+    <tr th:each="user,iterStat:${users}">
+        <td th:text="${user.id}"></td>
+        <td th:text="${user.name}"></td>
+        <td th:text="${user.age}"></td>
+    </tr>
+</table>
+<br>
+<!-- switch选择语句 -->
+<div th:switch="${word}">
+    <p th:case="'admin'">User is an admin</p>
+    <p th:case="'admin1'">User is an admin1</p>
+    <p th:case="'admin2'">User is an admin2</p>
+    <p th:case="'admin3'">User is an admin3</p>
+</div>
+<a th:href="ez.jpg">jj</a>
+<h4 th:include="~{footer::wll}"> ahdjwhdk</h4>
+</body>
+</html>

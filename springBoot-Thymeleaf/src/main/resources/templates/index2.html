@@ -1,0 +1,27 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+时间：
+<span th:text="${#dates.format(date,'yyyy年MM月dd日 HH:mm:ss')}"></span>
+</br>
+
+金额：<span th:text="'￥'+${#numbers.formatDecimal(price, 5, 3)}"></span>
+</br>
+
+<!-- # 包含后面...的10个字符 -->
+<p th:text="${#strings.abbreviate(str1, 10)}"></p>
+
+<!-- 判断字符串是否为空 -->
+<span th:if="${!#strings.isEmpty(str2)}">字符串str2不为空</span>
+</br>
+
+<!-- 截取字符串，指定长度 -->
+<span th:text="${#strings.substring(str2,0,4)}"></span>
+
+</body>
+</html>

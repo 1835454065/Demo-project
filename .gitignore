@@ -1,0 +1,8 @@
+# Project exclude paths
+/springBoot-demo1/target/
+/springBoot-demo2/target/
+/springBoot-jdbc/target/
+/springBoot-JPA/target/
+/springboot-RESTful/target/
+/springBoot-Thymeleaf/target/
+/springboot_demo/target/

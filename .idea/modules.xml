@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo-freemarker/Demo-freemarker.iml" filepath="$PROJECT_DIR$/Demo-freemarker/Demo-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo-jms/Demo-jms.iml" filepath="$PROJECT_DIR$/Demo-jms/Demo-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Demo-project.iml" filepath="$PROJECT_DIR$/.idea/Demo-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casclient_demo1/casclient_demo1.iml" filepath="$PROJECT_DIR$/casclient_demo1/casclient_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casclient_demo2/casclient_demo2.iml" filepath="$PROJECT_DIR$/casclient_demo2/casclient_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casclient_demo3/casclient_demo3.iml" filepath="$PROJECT_DIR$/casclient_demo3/casclient_demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-sms/demo-sms.iml" filepath="$PROJECT_DIR$/demo-sms/demo-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot-JPA/springBoot-JPA.iml" filepath="$PROJECT_DIR$/springBoot-JPA/springBoot-JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot-Thymeleaf/springBoot-Thymeleaf.iml" filepath="$PROJECT_DIR$/springBoot-Thymeleaf/springBoot-Thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot-demo1/springBoot-demo1.iml" filepath="$PROJECT_DIR$/springBoot-demo1/springBoot-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot-demo2/springBoot-demo2.iml" filepath="$PROJECT_DIR$/springBoot-demo2/springBoot-demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot-jdbc/springBoot-jdbc.iml" filepath="$PROJECT_DIR$/springBoot-jdbc/springBoot-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_dolr/spring_dolr.iml" filepath="$PROJECT_DIR$/spring_dolr/spring_dolr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-RESTful/springboot-RESTful.iml" filepath="$PROJECT_DIR$/springboot-RESTful/springboot-RESTful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-sjt/springboot-sjt.iml" filepath="$PROJECT_DIR$/springboot-sjt/springboot-sjt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_demo/springboot_demo.iml" filepath="$PROJECT_DIR$/springboot_demo/springboot_demo.iml" />
+    </modules>
+  </component>
+</project>

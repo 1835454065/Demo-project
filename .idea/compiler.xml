@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springBoot-JPA" />
+        <module name="demo-sms" />
+        <module name="springboot_demo" />
+        <module name="springBoot-jdbc" />
+        <module name="Demo-jms" />
+        <module name="casclient_demo2" />
+        <module name="Demo-freemarker" />
+        <module name="spring-boot-01" />
+        <module name="springBoot-Thymeleaf" />
+        <module name="spring_dolr" />
+        <module name="springboot-RESTful" />
+        <module name="springboot-sjt" />
+        <module name="casclient_demo3" />
+        <module name="springBoot-demo2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="casclient_demo1" target="1.8" />
+      <module name="casclient_demo2" target="1.8" />
+      <module name="casclient_demo3" target="1.8" />
+      <module name="Demo-freemarker" target="1.5" />
+      <module name="Demo-jms" target="1.5" />
+      <module name="demo-sms" target="1.5" />
+      <module name="FreeMarker-demo" target="1.5" />
+      <module name="spring-boot-01" target="1.8" />
+      <module name="spring-jms-consumer" target="1.5" />
+      <module name="spring-jms-producer" target="1.5" />
+      <module name="spring_dolr" target="1.8" />
+      <module name="springBoot-demo1" target="1.8" />
+      <module name="springBoot-demo2" target="1.8" />
+      <module name="springBoot-jdbc" target="1.8" />
+      <module name="springBoot-JPA" target="1.8" />
+      <module name="springboot-RESTful" target="1.8" />
+      <module name="springboot-sjt" target="1.8" />
+      <module name="springBoot-Thymeleaf" target="1.8" />
+      <module name="springboot_demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-01" options="-parameters" />
+      <module name="springBoot-JPA" options="-parameters" />
+      <module name="springBoot-Thymeleaf" options="-parameters" />
+      <module name="springBoot-demo1" options="-parameters" />
+      <module name="springBoot-demo2" options="-parameters" />
+      <module name="springBoot-jdbc" options="-parameters" />
+      <module name="springboot-RESTful" options="-parameters" />
+      <module name="springboot-sjt" options="-parameters" />
+      <module name="springboot_demo" options="" />
+    </option>
+  </component>
+</project>

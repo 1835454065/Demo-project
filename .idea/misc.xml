@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/casclient_demo1" />
+    <file type="web" url="file://$PROJECT_DIR$/casclient_demo2" />
+    <file type="web" url="file://$PROJECT_DIR$/casclient_demo3" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring_dolr/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo-jms/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jms/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/casclient_demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/casclient_demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot-demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-RESTful/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot-Thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-sjt/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
